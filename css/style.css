@@ -1,0 +1,9 @@
+
+.nav-link {
+    width: 100px;
+    height: 200px;
+    color: red;
+    display: block;
+    text-decoration: none;
+    box-align: left;
+}
